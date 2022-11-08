@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^.*\.Rmd$
+^.*\.pdf$
+^img$
+^.*\.css$
+^libs$
+^.*\.html$
+^LICENSE\.md$
